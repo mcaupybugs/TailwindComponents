@@ -8,5 +8,9 @@
 - Site Header - 
 ![alt text](image-1.png)
 
-- Delete Account Modal - 
+- Delete Account Modal -
+ 
 ![alt text](image-2.png)
+
+- Social media profile -
+![alt text](image-3.png)
