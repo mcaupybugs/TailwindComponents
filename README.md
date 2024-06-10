@@ -17,3 +17,6 @@
 
 - Virtual Wallet - 
 ![alt text](image-4.png)
+
+- Social Media Profile View - 
+![alt text](image-5.png)
